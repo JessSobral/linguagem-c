@@ -1,2 +1,2 @@
 # C++
-Este repositório é dedicado a exercícios executados em C++, no curso de Lógica 1, por Jéssica Sobral.
+Este repositório é dedicado a exercícios executados em C++, durante o curso de Lógica 1, por Jéssica Sobral.
